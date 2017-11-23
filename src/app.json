@@ -1,0 +1,6 @@
+{
+	"modules": {
+		"layers": "./layers",
+		"map": "./map"
+	}
+}
