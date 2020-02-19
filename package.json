@@ -11,7 +11,7 @@
 		"babel-eslint": "^7.2.1",
 		"babel-loader": "^7.1.2",
 		"babel-preset-env": "^1.6.0",
-		"codecov": "^2.3.0",
+		"codecov": "^3.6.5",
 		"copy-webpack-plugin": "^4.1.1",
 		"css-loader": "^0.28.7",
 		"eslint": "^3.18.0",
